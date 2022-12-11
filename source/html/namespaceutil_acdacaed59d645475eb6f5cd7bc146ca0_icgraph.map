@@ -1,4 +1,0 @@
-<map id="util::calculCleDeControleISBN" name="util::calculCleDeControleISBN">
-<area shape="rect" id="node1" title="Méthode permettant de calculer le chiffre de controle du ISBN." alt="" coords="209,5,424,32"/>
-<area shape="rect" id="node2" href="$namespaceutil.html#add1bcb74f53bd2b2e769bed0f0d97d54" title="Méthode permettant de valider le code ISBN." alt="" coords="5,5,161,32"/>
-</map>

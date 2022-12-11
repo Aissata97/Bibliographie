@@ -1,5 +1,0 @@
-<map id="util::validerCodeIsbn" name="util::validerCodeIsbn">
-<area shape="rect" id="node1" title="Méthode permettant de valider le code ISBN." alt="" coords="5,31,161,57"/>
-<area shape="rect" id="node2" href="$namespaceutil.html#acdacaed59d645475eb6f5cd7bc146ca0" title="Méthode permettant de calculer le chiffre de controle du ISBN." alt="" coords="209,5,424,32"/>
-<area shape="rect" id="node3" href="$namespaceutil.html#a301e7f884128b7109cae898fcbe34ad0" title="Méthode permettant de convertir le string en array." alt="" coords="247,56,386,83"/>
-</map>

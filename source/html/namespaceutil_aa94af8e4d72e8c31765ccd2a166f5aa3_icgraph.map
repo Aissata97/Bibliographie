@@ -1,4 +1,0 @@
-<map id="util::calculCleDeControleISSN" name="util::calculCleDeControleISSN">
-<area shape="rect" id="node1" title="Méthode permettant de calculer le 8ème chiffre (check digit) du code ISSN." alt="" coords="208,5,421,32"/>
-<area shape="rect" id="node2" href="$namespaceutil.html#a88d142f8fe23ef612d4005149479c04f" title="Méthode permettant de valider le code ISSN." alt="" coords="5,5,160,32"/>
-</map>

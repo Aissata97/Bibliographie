@@ -1,4 +1,0 @@
-<map id="biblio::Ouvrage::reqReferenceFormate" name="biblio::Ouvrage::reqReferenceFormate">
-<area shape="rect" id="node1" title="Méthode affichant les informations de l&#39;Ouvrage sous forme d&#39;une chaine formatée." alt="" coords="5,5,221,47"/>
-<area shape="rect" id="node2" href="$classbiblio_1_1_reference.html#a35fb951ca23acb20c95bbe6a5a46bec1" title="Méthode retournant une partie des informations sur une reference formatée. Elle doit être implémentée..." alt="" coords="269,5,432,47"/>
-</map>

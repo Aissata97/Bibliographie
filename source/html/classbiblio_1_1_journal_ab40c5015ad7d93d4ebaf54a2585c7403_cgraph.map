@@ -1,4 +1,0 @@
-<map id="biblio::Journal::reqReferenceFormate" name="biblio::Journal::reqReferenceFormate">
-<area shape="rect" id="node1" title="Méthode affichant les informations du journal sous forme d&#39;une chaine formatée, elle augmente la méth..." alt="" coords="5,5,212,47"/>
-<area shape="rect" id="node2" href="$classbiblio_1_1_reference.html#a35fb951ca23acb20c95bbe6a5a46bec1" title="Méthode retournant une partie des informations sur une reference formatée. Elle doit être implémentée..." alt="" coords="260,5,423,47"/>
-</map>

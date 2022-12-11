@@ -1,7 +1,0 @@
-<map id="TEST" name="TEST">
-<area shape="rect" id="node1" title=" " alt="" coords="5,111,60,138"/>
-<area shape="rect" id="node2" href="$classbiblio_1_1_reference.html#adcf4b47dfbd090e0da711a3167aaf7ab" title="Méthode permettant d&#39;accéder en lecture (accesseur) à l&#39;attribut m_annee de la classe Reference." alt="" coords="108,5,248,47"/>
-<area shape="rect" id="node3" href="$classbiblio_1_1_reference.html#a7400815fd24fe2c639419ccb0eaa622d" title="Méthode permettant d&#39;accéder en lecture (accesseur) à l&#39;attribut m_auteurs de la classe Reference." alt="" coords="108,71,248,112"/>
-<area shape="rect" id="node4" href="$classbiblio_1_1_reference.html#ab1131f37d6c046de88d22b0f90d3a670" title="Méthode permettant d&#39;accéder en lecture (accesseur) à l&#39;attribut m_identifiant de la classe Reference..." alt="" coords="108,136,248,177"/>
-<area shape="rect" id="node5" href="$classbiblio_1_1_reference.html#af2e3cfeaff01fd1d332706e476a5ce82" title="Méthode permettant d&#39;accéder en lecture (accesseur) à l&#39;attribut m_titre de la classe Reference." alt="" coords="108,201,248,243"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="Journal.h" name="Journal.h">
-<area shape="rect" id="node1" title="Prototype de la classe Journal, derivée de la classe Reference." alt="" coords="193,5,272,32"/>
-<area shape="rect" id="node2" href="$_journal_8cpp.html" title="Implementation de la classe Journal." alt="" coords="5,80,100,107"/>
-<area shape="rect" id="node3" href="$_bibliographie_testeur_8cpp.html" title="Test unitaire de la classe Bibliographie." alt="" coords="124,80,341,107"/>
-<area shape="rect" id="node4" href="$_journal_testeur_8cpp.html" title="Test unitaire de la classe Journal." alt="" coords="366,80,542,107"/>
-</map>

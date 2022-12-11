@@ -1,4 +1,0 @@
-var searchData=
-[
-  ['test_20list_133',['Test List',['../test.html',1,'']]]
-];

@@ -1,6 +1,0 @@
-<map id="biblio::Reference" name="biblio::Reference">
-<area shape="rect" id="node1" title="Classe modélisant les références bibliographiques." alt="" coords="135,5,267,32"/>
-<area shape="rect" id="node2" href="$classbiblio_1_1_journal.html" title="Classe modelisant le journal, qui représente les références de la catégorie Journal." alt="" coords="5,80,116,107"/>
-<area shape="rect" id="node3" href="$classbiblio_1_1_ouvrage.html" title="Classe modélisant les Ouvrages qui representent les references de la categorie Ouvrage,..." alt="" coords="140,80,261,107"/>
-<area shape="rect" id="node4" href="$class_reference_de_test.html" title="Classe de test permettant de tester la classe abstraite Reference." alt="" coords="285,80,417,107"/>
-</map>
