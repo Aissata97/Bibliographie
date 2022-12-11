@@ -1,0 +1,5 @@
+<map id="TEST_F" name="TEST_F">
+<area shape="rect" id="node1" title=" " alt="" coords="5,46,75,73"/>
+<area shape="rect" id="node2" href="$classbiblio_1_1_bibliographie.html#a30833acd550a89194b41dad02d0cab96" title="Cette méthode parcourt toutes les reference de la bibliographie et retourne les informations des refe..." alt="" coords="123,5,313,47"/>
+<area shape="rect" id="node3" href="$classbiblio_1_1_bibliographie.html#a8784604cf8797496385f68c194d8e4a7" title="Méthode permettant d&#39;accéder en lecture (accesseur) à l&#39;attribut m_nomBibliographie de la classe Refe..." alt="" coords="134,71,302,112"/>
+</map>

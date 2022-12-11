@@ -1,0 +1,9 @@
+<map id="TEST" name="TEST">
+<area shape="rect" id="node1" title=" " alt="" coords="5,166,60,193"/>
+<area shape="rect" id="node2" href="$classbiblio_1_1_reference.html#adcf4b47dfbd090e0da711a3167aaf7ab" title="Méthode permettant d&#39;accéder en lecture (accesseur) à l&#39;attribut m_annee de la classe Reference." alt="" coords="136,5,276,47"/>
+<area shape="rect" id="node3" href="$classbiblio_1_1_reference.html#a7400815fd24fe2c639419ccb0eaa622d" title="Méthode permettant d&#39;accéder en lecture (accesseur) à l&#39;attribut m_auteurs de la classe Reference." alt="" coords="136,71,276,112"/>
+<area shape="rect" id="node4" href="$classbiblio_1_1_ouvrage.html#a03527f5388045de5a47d9c5d8bf64c02" title="Méthode permettant d&#39;accéder en lecture (accesseur) à l&#39;attribut m_editeur de la classe Ouvrage." alt="" coords="108,137,304,163"/>
+<area shape="rect" id="node5" href="$classbiblio_1_1_reference.html#ab1131f37d6c046de88d22b0f90d3a670" title="Méthode permettant d&#39;accéder en lecture (accesseur) à l&#39;attribut m_identifiant de la classe Reference..." alt="" coords="136,188,276,229"/>
+<area shape="rect" id="node6" href="$classbiblio_1_1_reference.html#af2e3cfeaff01fd1d332706e476a5ce82" title="Méthode permettant d&#39;accéder en lecture (accesseur) à l&#39;attribut m_titre de la classe Reference." alt="" coords="136,253,276,295"/>
+<area shape="rect" id="node7" href="$classbiblio_1_1_ouvrage.html#a9f4a3d0dde6d56b5c16dd8d26b6625c7" title="Méthode permettant d&#39;accéder en lecture (accesseur) à l&#39;attribut m_ville de la classe Ouvrage." alt="" coords="117,319,295,346"/>
+</map>

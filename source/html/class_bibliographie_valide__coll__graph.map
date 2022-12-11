@@ -1,0 +1,7 @@
+<map id="BibliographieValide" name="BibliographieValide">
+<area shape="rect" id="node1" title="Création d&#39;une fixture pour tester les methodes et le constructeur par copie de Bibliographie." alt="" coords="79,171,227,197"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,81,53,108"/>
+<area shape="rect" id="node3" href="$classbiblio_1_1_bibliographie.html" title="Classe permettant de faire la gestion des Références." alt="" coords="77,81,229,108"/>
+<area shape="rect" id="node4" href="$classbiblio_1_1_journal.html" title="Classe modelisant le journal, qui représente les références de la catégorie Journal." alt="" coords="254,81,365,108"/>
+<area shape="rect" id="node5" href="$classbiblio_1_1_reference.html" title="Classe modélisant les références bibliographiques." alt="" coords="243,5,375,32"/>
+</map>

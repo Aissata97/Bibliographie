@@ -1,0 +1,5 @@
+<map id="util::validerCodeIssn" name="util::validerCodeIssn">
+<area shape="rect" id="node1" title="Méthode permettant de valider le code ISSN." alt="" coords="5,31,160,57"/>
+<area shape="rect" id="node2" href="$namespaceutil.html#aa94af8e4d72e8c31765ccd2a166f5aa3" title="Méthode permettant de calculer le 8ème chiffre (check digit) du code ISSN." alt="" coords="208,5,421,32"/>
+<area shape="rect" id="node3" href="$namespaceutil.html#a89a6543b745f3875a1f75a03f67eb29e" title="Méthode permettant de valider les chiffres." alt="" coords="241,56,389,83"/>
+</map>

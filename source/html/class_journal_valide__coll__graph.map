@@ -1,0 +1,6 @@
+<map id="JournalValide" name="JournalValide">
+<area shape="rect" id="node1" title="Création d&#39;une fixture à utiliser pour les méthodes publiques de la classe de test de Journal." alt="" coords="5,171,112,197"/>
+<area shape="rect" id="node2" title=" " alt="" coords="13,81,61,108"/>
+<area shape="rect" id="node3" href="$classbiblio_1_1_journal.html" title="Classe modelisant le journal, qui représente les références de la catégorie Journal." alt="" coords="86,81,197,108"/>
+<area shape="rect" id="node4" href="$classbiblio_1_1_reference.html" title="Classe modélisant les références bibliographiques." alt="" coords="75,5,207,32"/>
+</map>

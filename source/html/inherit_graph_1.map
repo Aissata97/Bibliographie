@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classbiblio_1_1_reference.html" title="Classe modélisant les références bibliographiques." alt="" coords="5,56,137,83"/>
+<area shape="rect" id="node2" href="$classbiblio_1_1_journal.html" title="Classe modelisant le journal, qui représente les références de la catégorie Journal." alt="" coords="196,5,307,32"/>
+<area shape="rect" id="node3" href="$classbiblio_1_1_ouvrage.html" title="Classe modélisant les Ouvrages qui representent les references de la categorie Ouvrage,..." alt="" coords="191,56,312,83"/>
+<area shape="rect" id="node4" href="$class_reference_de_test.html" title="Classe de test permettant de tester la classe abstraite Reference." alt="" coords="185,107,317,133"/>
+</map>

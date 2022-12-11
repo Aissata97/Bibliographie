@@ -1,0 +1,8 @@
+<map id="TEST_F" name="TEST_F">
+<area shape="rect" id="node1" title=" " alt="" coords="5,143,75,170"/>
+<area shape="rect" id="node2" href="$classbiblio_1_1_reference.html#adcf4b47dfbd090e0da711a3167aaf7ab" title="Méthode permettant d&#39;accéder en lecture (accesseur) à l&#39;attribut m_annee de la classe Reference." alt="" coords="134,5,274,47"/>
+<area shape="rect" id="node3" href="$classbiblio_1_1_reference.html#a7400815fd24fe2c639419ccb0eaa622d" title="Méthode permettant d&#39;accéder en lecture (accesseur) à l&#39;attribut m_auteurs de la classe Reference." alt="" coords="134,71,274,112"/>
+<area shape="rect" id="node4" href="$classbiblio_1_1_reference.html#ab1131f37d6c046de88d22b0f90d3a670" title="Méthode permettant d&#39;accéder en lecture (accesseur) à l&#39;attribut m_identifiant de la classe Reference..." alt="" coords="134,136,274,177"/>
+<area shape="rect" id="node5" href="$classbiblio_1_1_reference.html#a35fb951ca23acb20c95bbe6a5a46bec1" title="Méthode retournant une partie des informations sur une reference formatée. Elle doit être implémentée..." alt="" coords="123,201,285,243"/>
+<area shape="rect" id="node6" href="$classbiblio_1_1_reference.html#af2e3cfeaff01fd1d332706e476a5ce82" title="Méthode permettant d&#39;accéder en lecture (accesseur) à l&#39;attribut m_titre de la classe Reference." alt="" coords="134,267,274,308"/>
+</map>

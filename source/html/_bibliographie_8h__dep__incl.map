@@ -1,0 +1,5 @@
+<map id="Bibliographie.h" name="Bibliographie.h">
+<area shape="rect" id="node1" title="Prototype de la classe Bibliotheque permettant de faire la gestion des références." alt="" coords="113,5,233,32"/>
+<area shape="rect" id="node2" href="$_bibliographie_8cpp.html" title="Implementation de la classe Bibliographie permettant de faire la gestion des références." alt="" coords="5,80,140,107"/>
+<area shape="rect" id="node3" href="$_bibliographie_testeur_8cpp.html" title="Test unitaire de la classe Bibliographie." alt="" coords="164,80,381,107"/>
+</map>
